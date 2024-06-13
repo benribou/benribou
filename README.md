@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">I'm a 20 year old student pursuing a degree in Computer Engineering</h3>
+<h3 align="center">I'm a 21 year old student pursuing a degree in Computer Engineering</h3>
 
 - 🌱 I’m currently learning **React**
 
