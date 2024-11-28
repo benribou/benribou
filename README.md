@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">I'm a 21 year old student pursuing a degree in Computer Engineering</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Python, Flask**
+- 💬 Ask me about **Python, Flask, React**
 
 - 📫 How to reach me **ribou.benjamin@gmail.com**
 
